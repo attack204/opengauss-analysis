@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: openGauss
-linktitle: 数据结构
+title: 执行器
+linktitle: 执行器
 summary: Notes on Python data structures.
 weight: 2
 icon: python
