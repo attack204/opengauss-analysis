@@ -3,7 +3,7 @@
 title: openGauss架构 
 linktitle: openGauss架构
 summary: openGauss架构
-weight: 1
+weight: 100
 # icon: book
 # icon_pack: fas
 
