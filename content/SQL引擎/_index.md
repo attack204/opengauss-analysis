@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 title: SQL引擎 
-linktitle: 🤖 Machine Learning
+linktitle: SQL引擎
 summary: SQL引擎 
 weight: 1
 # icon: book
