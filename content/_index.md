@@ -14,3 +14,5 @@ cover:
 参考资料
 
 《openGauss核心技术》
+
+[openGauss数据库源码解析系列文章](https://www.zhihu.com/column/c_1358363246349635584)
