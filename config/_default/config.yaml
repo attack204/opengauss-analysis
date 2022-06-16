@@ -5,6 +5,7 @@
 
 title: 'My Notes' # Website name
 baseURL: 'https://example.com/' # Website URL
+math: true
 
 ############################
 ## PAGE OPTIONS
