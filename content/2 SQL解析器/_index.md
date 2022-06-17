@@ -1,11 +1,8 @@
 ---
 # Title, summary, and page position.
-title: 一 架构概览
-linktitle: 一 架构概览
-weight: 100
-icon_pack: fab
-
-# Page metadata.
+title: 2 SQL解析器 
+linktitle: 2 SQL解析器
+weight: 200 
 type: book # Do not modify.
 toc: false
 ---
