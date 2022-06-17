@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 title: 二 SQL引擎 
-linktitle: SQL引擎
+linktitle: 二 SQL引擎
 weight: 200 
 # icon: book
 # icon_pack: fas

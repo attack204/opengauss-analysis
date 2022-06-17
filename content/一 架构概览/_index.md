@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 title: 一 架构概览
 linktitle: 一 架构概览
-weight: 200
+weight: 100
 icon_pack: fab
 
 # Page metadata.

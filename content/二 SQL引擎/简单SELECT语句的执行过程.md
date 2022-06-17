@@ -2,7 +2,6 @@
 # Title, summary, and page position.
 title: 简单SELECT语句的执行过程
 linktitle: 简单SELECT语句的执行过程
-summary: 简单SELECT语句的执行过程
 weight: 1
 # icon: book
 # icon_pack: fas
