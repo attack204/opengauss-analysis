@@ -1,7 +1,6 @@
 ---
 # Title, summary, and page position.
 title: 1 架构概览
-linktitle: 1 架构概览
 weight: 100
 icon_pack: fab
 
@@ -10,4 +9,3 @@ type: book # Do not modify.
 toc: false
 ---
 
-{{< list_children >}}
